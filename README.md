@@ -1,5 +1,5 @@
 # Parkinson's-Disease-Detection
-Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Artificial Intelligence (2) [CS324P] at Faculty of Computers &amp; Information Sciences, Mansoura University
+Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Artificial Intelligence (2) [CS413P] at Faculty of Computers &amp; Information Sciences, Mansoura University
 
 # Table of Content
 
@@ -23,7 +23,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 
 * [Asem Ayman]()
 
-* [Nada Mohamed]()
+* [Nada Mohamed](https://github.com/NadaKamal00)
 
 
 
