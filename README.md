@@ -107,7 +107,7 @@ To begin utilizing this application, follow these steps:
 3. Run the Jupyter Notebook:
 
    ```bash
-   Fake_News_NLP.ipynb
+   Full_Parkinson's.ipynb
 
 # Sample Run
 
