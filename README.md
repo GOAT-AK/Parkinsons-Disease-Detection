@@ -7,7 +7,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [How It Works](#How_It_Works)
-* [Tools_&_Libraries](#Tools_&_Libraries)
+* [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
 * [Sample Run](#Sample_Run)
@@ -63,7 +63,7 @@ column which is set to 0 for healthy and 1 for PD.
 
  
 
-# Tools_&_Libraries
+# Tools
 
   I.	Juypter Notebook(IDE)
   
