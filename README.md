@@ -97,12 +97,12 @@ To begin utilizing this application, follow these steps:
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/GOAT-AK/Fake-News-Detection
+   git clone https://github.com/GOAT-AK/Parkinsons-Disease-Detection
 
 2. Navigate to the cloned repository:
 
    ```bash
-   cd Fake-News-Detection
+   cd Parkinsons-Disease-Detection
 
 3. Run the Jupyter Notebook:
 
