@@ -10,7 +10,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
-* [Sample Run](#SampleRun)
+* [Sample Run](#Sample_Run)
 
 
 # Contributors
@@ -109,7 +109,7 @@ To begin utilizing this application, follow these steps:
    ```bash
    Full_Parkinsons.ipynb
 
-# Sample Run
+# Sample_Run
 
 
 * The Person Have Parkinson's 
