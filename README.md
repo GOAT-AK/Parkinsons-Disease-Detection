@@ -107,7 +107,7 @@ To begin utilizing this application, follow these steps:
 3. Run the Jupyter Notebook:
 
    ```bash
-   Full_Parkinson's.ipynb
+   Full_Parkinsons.ipynb
 
 # Sample Run
 
