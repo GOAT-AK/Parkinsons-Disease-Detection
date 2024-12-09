@@ -77,13 +77,13 @@ column which is set to 0 for healthy and 1 for PD.
   
   VI.  seaborn
   
-  VII.  scikit-learn 
+  VII. re 
 
-  VIII. imblearn 
+  VIII.  scikit-learn 
 
   IX. tkinter
 
-  X.  re
+  X.  imblearn 
 
   
 
