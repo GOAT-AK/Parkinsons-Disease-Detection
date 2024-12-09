@@ -77,8 +77,15 @@ column which is set to 0 for healthy and 1 for PD.
   
   VI.  scikit-learn
   
-  VII.	 tkinter
+  VII.  tkinter
 
+  VIII. seaborn
+
+  IX. imblearn
+
+  X.  matplotlib
+
+  
 
 
 
@@ -89,7 +96,7 @@ column which is set to 0 for healthy and 1 for PD.
 * Ensure the required libraries are installed by running:
   
   ```bash
-  pip install numpy pandas scikit-learn
+  pip install numpy pandas scikit-learn  matplotlib  seaborn   imblearn 
 # Usage
 
 To begin utilizing this application, follow these steps:
