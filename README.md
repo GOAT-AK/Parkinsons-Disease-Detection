@@ -7,7 +7,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [How It Works](#HowItWorks)
-* [Tools](#Tools)
+* [Tools](#Tools&Libraries)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
 * [Sample Run](#Sample_Run)
@@ -43,7 +43,7 @@ is to discriminate healthy people from those with PD, according to "status"
 column which is set to 0 for healthy and 1 for PD.
 
 
-# How It Works
+# How_It_Works
 
  • The dataset is loaded from a CSV file (parkinsons.data).
  
