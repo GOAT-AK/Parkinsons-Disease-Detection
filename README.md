@@ -7,7 +7,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [How It Works](#How_It_Works)
-* [Tools](#Tools_&_Libraries)
+* [Tools_&_Libraries](#Tools_&_Libraries)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
 * [Sample Run](#Sample_Run)
