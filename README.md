@@ -19,6 +19,12 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 
 * [Amr Mohamed](https://github.com/AmrMohamed16)
 
+* [Asem Ashraf](https://github.com/Asem-Git-Hub)
+
+* [Asem Ayman]()
+
+* [Nada Mohamed]()
+
 
 
 
