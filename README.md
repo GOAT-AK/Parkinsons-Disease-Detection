@@ -1,4 +1,4 @@
-# Parkinson-s-Disease-Detection
+# Parkinson's-Disease-Detection
 Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Artificial Intelligence (2) [CS324P] at Faculty of Computers &amp; Information Sciences, Mansoura University
 
 # Table of Content
@@ -10,7 +10,7 @@ Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Ar
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
-* [Sample-Run](#SampleRun)
+* [Sample Run](#SampleRun)
 
 
 # Contributors
@@ -103,7 +103,7 @@ To begin utilizing this application, follow these steps:
    ```bash
    Fake_News_NLP.ipynb
 
-# Sample-Run
+# Sample Run
 
 
 * The Person Have Parkinson's 
