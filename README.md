@@ -73,17 +73,17 @@ column which is set to 0 for healthy and 1 for PD.
   
   IV. pandas 
 
-  v. re
+  v. matplotlib
   
-  VI.  scikit-learn
+  VI.  seaborn
   
-  VII.  tkinter
+  VII.  scikit-learn 
 
-  VIII. seaborn
+  VIII. imblearn 
 
-  IX. imblearn
+  IX. tkinter
 
-  X.  matplotlib
+  X.  re
 
   
 
